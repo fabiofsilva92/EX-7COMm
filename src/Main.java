@@ -27,9 +27,6 @@ public class Main {
         long fim = System.currentTimeMillis();
         System.out.println("Tempo para execução: "+ (fim-inicio)+" milisegundos");
 
-        Integer num = 5555;
-
-        System.out.println(num.hashCode(1));
     }
 
     public static void menosPerformatico(){
